@@ -54,7 +54,9 @@ A:hover {color: #FA8F26;}
 </head>
 
 <body>
-<a href="https://mymediaconsult.at/"><img src="http://mymediaconsult.at/wp-content/uploads/2015/12/MClogo.png" width="150" style="padding-right:15px; padding-bottom:10px; border: 0; float: left;" alt="EOF Media Consult"/></a>hello, this is localghost. Pattern created by Harald Winkler (in memoriam).
+<!-- <a href="https://mymediaconsult.at/"><img src="http://mymediaconsult.at/wp-content/uploads/2015/12/MClogo.png" width="150" style="padding-right:15px; padding-bottom:10px; border: 0; float: left;" alt="EOF Media Consult"/></a>
+-->
+hello, this is localghost. Pattern created by Oliver Falk.
 <?php 
 
 //passive elemente
